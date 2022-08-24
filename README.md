@@ -11,3 +11,7 @@ When click on checkbox with column name will hide the column with checked name.
 Look this:🤔🤔
 
 <img src="assets/hideName.png" alt="hide name">
+
+## Credits
+
+Credits for me `António Gabriel`
